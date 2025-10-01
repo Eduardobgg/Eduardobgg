@@ -6,7 +6,7 @@
 <p align="center">
   <!-- PIXEL ART SLOT -->
   <a href="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620">
-    <img src="IMG_PIXEL_AQUI" alt="Pixel banner" width="820">
+    <img src="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620 alt="Pixel banner" width="820">
   </a>
 </p>
 

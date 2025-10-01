@@ -111,8 +111,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
   <!-- Pixel en redes (Soldier: 76) -->
-  <a href="https://w7.pngwing.com/pngs/232/391/png-transparent-overwatch-blizzcon-pixel-art-heroes-of-the-storm-soldier-76-video-game-bead-fictional-character-thumbnail.png">
-    <img src="https://w7.pngwing.com/pngs/232/391/png-transparent-overwatch-blizzcon-pixel-art-heroes-of-the-storm-soldier-76-video-game-bead-fictional-character-thumbnail.png" alt="Soldier: 76 Pixel" height="40">
+  <a href="https://pbs.twimg.com/media/DO1064xWkAA7qaV.png">
+    <img src="https://pbs.twimg.com/media/DO1064xWkAA7qaV.png" alt="Soldier: 76 Pixel" height="40">
   </a>
 </p>
 

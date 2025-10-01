@@ -37,8 +37,8 @@
 
 <!-- PIXEL ART SLOT (llenado con Sombra) -->
 <p>
-  <a href="https://www.vhv.rs/dpng/d/425-4251946_sombra-pixel-art-spray-overwatch-pixel-spray-sombra.png">
-    <img src="https://www.vhv.rs/dpng/d/425-4251946_sombra-pixel-art-spray-overwatch-pixel-spray-sombra.png" alt="Overwatch Sombra Pixel" height="84">
+  <a href="https://static.wikia.nocookie.net/overwatch/images/3/3b/Sombra_8bit.png/revision/latest/scale-to-width-down/250?cb=20161201043328">
+    <img src="https://static.wikia.nocookie.net/overwatch/images/3/3b/Sombra_8bit.png/revision/latest/scale-to-width-down/250?cb=20161201043328" alt="Overwatch Sombra Pixel" height="84">
   </a>
 </p>
 

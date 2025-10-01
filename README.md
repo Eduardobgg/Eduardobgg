@@ -83,7 +83,7 @@
 
 <!-- Encabezado animado con fuente tipo terminal/pixel -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2400&pause=900&color=F8D568&center=true&vCenter=true&width=600&lines=PIXEL+GITHUB+STATS;Java+%E2%80%A2+Python+%E2%80%A2+Django;Linux+%7C+Windows+%7C+UNAM" alt="Typing SVG Pixel Header">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2400&pause=900&color=F8D568&center=true&vCenter=true&width=600&lines=Skills;Java+%E2%80%A2+Python+%E2%80%A2+Django;Linux+%7C+Windows+%7C+UNAM" alt="Typing SVG Pixel Header">
 </p>
 
 <!-- Fila 1: Stats principal + Top Langs (donut vertical) -->

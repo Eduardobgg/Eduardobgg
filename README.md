@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=eduardobgg&label=Profile%20views&color=7f5af0&style=flat-square" alt="eduardobgg" />
 </p>
 
-<!-- Divider estilo pixel (ok dejarlo) -->
-<p align="center"><samp>░▒▓▓▓ <b>PIXEL MODE ON</b> ▓▓▓▒░</samp></p>
 
 <!-- ============================ -->
 <!--           ABOUT ME           -->
@@ -116,8 +114,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardobgg&theme=2077" height="120" alt="Repos per Language 2077"/>
 </p>
 
-<!-- Divider estilo pixel (ok dejarlo) -->
-<p align="center"><samp>▙▟▙▟▙▟▙▟▙▟</samp></p>
 
 <!-- ============================ -->
 <!--         SOCIAL / LINKS       -->
@@ -134,5 +130,3 @@
   </a>
 </p>
 
-<!-- Footer pixel -->
-<p align="center"><samp>made with ❤️ + pixels</samp></p>

@@ -85,23 +85,6 @@
 <!-- ============================ -->
 <!--        PIXEL SHOWROOM        -->
 <!-- ============================ -->
-<h3 align="center">🎨 Pixel Showroom (fan-sprites & links)</h3>
-
-<!-- 8 sprites en grid (2 filas × 4 columnas) -->
-<p align="center">
-  <a href="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620">
-    <img src="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620" alt="McCree Pixel" width="90">
-  </a>
-  <a href="https://p7.hiclipart.com/preview/684/247/611/overwatch-mercy-pixel-art-blizzcon-pixel.jpg">
-    <img src="https://p7.hiclipart.com/preview/684/247/611/overwatch-mercy-pixel-art-blizzcon-pixel.jpg" alt="Mercy Pixel" width="90">
-  </a>
-  <a href="https://www.pikpng.com/pngl/m/40-402381_overwatch-bastion-pixel-art-png-download-overwatch-bastion.png">
-    <img src="https://www.pikpng.com/pngl/m/40-402381_overwatch-bastion-pixel-art-png-download-overwatch-bastion.png" alt="Bastion Pixel" width="90">
-  </a>
-  <a href="https://p7.hiclipart.com/preview/512/535/747/overwatch-pixel-art-mei-mei-overwatch.jpg">
-    <img src="https://p7.hiclipart.com/preview/512/535/747/overwatch-pixel-art-mei-mei-overwatch.jpg" alt="Mei Pixel" width="90">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.vhv.rs/dpng/d/425-4251946_sombra-pixel-art-spray-overwatch-pixel-spray-sombra.png">

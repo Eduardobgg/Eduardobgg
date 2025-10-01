@@ -7,15 +7,6 @@
   <a href="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620">
     <img src="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620" alt="Overwatch McCree Pixel" height="80">
   </a>
-  <a href="https://p7.hiclipart.com/preview/684/247/611/overwatch-mercy-pixel-art-blizzcon-pixel.jpg">
-    <img src="https://p7.hiclipart.com/preview/684/247/611/overwatch-mercy-pixel-art-blizzcon-pixel.jpg" alt="Overwatch Mercy Pixel" height="80">
-  </a>
-  <a href="https://www.pikpng.com/pngl/m/40-402381_overwatch-bastion-pixel-art-png-download-overwatch-bastion.png">
-    <img src="https://www.pikpng.com/pngl/m/40-402381_overwatch-bastion-pixel-art-png-download-overwatch-bastion.png" alt="Overwatch Bastion Pixel" height="80">
-  </a>
-  <a href="https://p7.hiclipart.com/preview/512/535/747/overwatch-pixel-art-mei-mei-overwatch.jpg">
-    <img src="https://p7.hiclipart.com/preview/512/535/747/overwatch-pixel-art-mei-mei-overwatch.jpg" alt="Overwatch Mei Pixel" height="80">
-  </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Eduardo Biali Garcia Gomez</h1>

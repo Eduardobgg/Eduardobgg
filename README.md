@@ -38,7 +38,7 @@
 <!-- PIXEL ART SLOT (llenado con Sombra) -->
 <p>
   <a href="https://static.wikia.nocookie.net/overwatch/images/3/3b/Sombra_8bit.png/revision/latest/scale-to-width-down/250?cb=20161201043328">
-    <img src="https://static.wikia.nocookie.net/overwatch/images/3/3b/Sombra_8bit.png/revision/latest/scale-to-width-down/250?cb=20161201043328" alt="Overwatch Sombra Pixel" height="84">
+    <img src="https://static.wikia.nocookie.net/overwatch/images/3/3b/Sombra_8bit.png/revision/latest/scale-to-width-down/250?cb=20161201043328" alt="Overwatch Sombra Pixel" height="94">
   </a>
 </p>
 
@@ -112,7 +112,7 @@
   </a>
   <!-- Pixel en redes (Soldier: 76) -->
   <a href="https://pbs.twimg.com/media/DO1064xWkAA7qaV.png">
-    <img src="https://pbs.twimg.com/media/DO1064xWkAA7qaV.png" alt="Soldier: 76 Pixel" height="40">
+    <img src="https://pbs.twimg.com/media/DO1064xWkAA7qaV.png" alt="Moira: 76 Pixel" height="80">
   </a>
 </p>
 

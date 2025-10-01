@@ -70,8 +70,8 @@
 
 <!-- PIXEL ART SLOT (llenado con Pharah) -->
 <p>
-  <a href="https://toppng.com/uploads/preview/overwatch-pharah-pixel-spray-11563500446i3gmwomjbj.png">
-    <img src="https://toppng.com/uploads/preview/overwatch-pharah-pixel-spray-11563500446i3gmwomjbj.png" alt="Overwatch Pharah Pixel" height="84">
+  <a href="https://www.pngkey.com/png/full/550-5503791_bastion-overwatch-bastion-pixel-spray.png">
+    <img src="https://www.pngkey.com/png/full/550-5503791_bastion-overwatch-bastion-pixel-spray.png" height="84">
   </a>
 </p>
 

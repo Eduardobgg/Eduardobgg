@@ -79,27 +79,6 @@
 </tr>
 </table>
 
-<!-- Divider estilo pixel -->
-<p align="center"><samp>▞▚▞▚▞▚▞▚▞▚▞▚</samp></p>
-
-<!-- ============================ -->
-<!--        PIXEL SHOWROOM        -->
-<!-- ============================ -->
-
-<p align="center">
-  <a href="https://www.vhv.rs/dpng/d/425-4251946_sombra-pixel-art-spray-overwatch-pixel-spray-sombra.png">
-    <img src="https://www.vhv.rs/dpng/d/425-4251946_sombra-pixel-art-spray-overwatch-pixel-spray-sombra.png" alt="Sombra Pixel" width="90">
-  </a>
-  <a href="https://www.vhv.rs/dpng/d/416-4162488_overwatch-junkrat-png-junkrat-pixel-art-transparent-png.png">
-    <img src="https://www.vhv.rs/dpng/d/416-4162488_overwatch-junkrat-png-junkrat-pixel-art-transparent-png.png" alt="Junkrat Pixel" width="90">
-  </a>
-  <a href="https://toppng.com/uploads/preview/overwatch-pharah-pixel-spray-11563500446i3gmwomjbj.png">
-    <img src="https://toppng.com/uploads/preview/overwatch-pharah-pixel-spray-11563500446i3gmwomjbj.png" alt="Pharah Pixel" width="90">
-  </a>
-  <a href="https://w7.pngwing.com/pngs/232/391/png-transparent-overwatch-blizzcon-pixel-art-heroes-of-the-storm-soldier-76-video-game-bead-fictional-character-thumbnail.png">
-    <img src="https://w7.pngwing.com/pngs/232/391/png-transparent-overwatch-blizzcon-pixel-art-heroes-of-the-storm-soldier-76-video-game-bead-fictional-character-thumbnail.png" alt="Soldier: 76 Pixel" width="90">
-  </a>
-</p>
 
 <!-- Divider estilo pixel -->
 <p align="center"><samp>█▓▒░ <b>STATS</b> ░▒▓█</samp></p>

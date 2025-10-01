@@ -2,11 +2,19 @@
 <!--        PIXEL-ART README      -->
 <!-- ============================ -->
 
-<!-- 🎮 BANNER PIXEL (opcional): reemplaza el href/src -->
+<!-- 🎮 BANNER PIXEL: mosaico con 4 sprites -->
 <p align="center">
-  <!-- PIXEL ART SLOT -->
   <a href="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620">
-    <img src="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620 alt="Pixel banner" width="820">
+    <img src="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620" alt="Overwatch McCree Pixel" height="80">
+  </a>
+  <a href="https://p7.hiclipart.com/preview/684/247/611/overwatch-mercy-pixel-art-blizzcon-pixel.jpg">
+    <img src="https://p7.hiclipart.com/preview/684/247/611/overwatch-mercy-pixel-art-blizzcon-pixel.jpg" alt="Overwatch Mercy Pixel" height="80">
+  </a>
+  <a href="https://www.pikpng.com/pngl/m/40-402381_overwatch-bastion-pixel-art-png-download-overwatch-bastion.png">
+    <img src="https://www.pikpng.com/pngl/m/40-402381_overwatch-bastion-pixel-art-png-download-overwatch-bastion.png" alt="Overwatch Bastion Pixel" height="80">
+  </a>
+  <a href="https://p7.hiclipart.com/preview/512/535/747/overwatch-pixel-art-mei-mei-overwatch.jpg">
+    <img src="https://p7.hiclipart.com/preview/512/535/747/overwatch-pixel-art-mei-mei-overwatch.jpg" alt="Overwatch Mei Pixel" height="80">
   </a>
 </p>
 
@@ -36,10 +44,10 @@
 - 📫 Contact: **eduardobgg20@ciencias.unam.mx**
 - ⚡ Fun fact: **HTML, Java & Python practice; improving step by step and always learning**
 
-<!-- PIXEL ART SLOT -->
+<!-- PIXEL ART SLOT (llenado con Sombra) -->
 <p>
-  <a href="LINK_AQUI">
-    <img src="IMG_PIXEL_AQUI" alt="About me pixel" height="80">
+  <a href="https://www.vhv.rs/dpng/d/425-4251946_sombra-pixel-art-spray-overwatch-pixel-spray-sombra.png">
+    <img src="https://www.vhv.rs/dpng/d/425-4251946_sombra-pixel-art-spray-overwatch-pixel-spray-sombra.png" alt="Overwatch Sombra Pixel" height="84">
   </a>
 </p>
 
@@ -69,10 +77,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42"/>
 </p>
 
-<!-- PIXEL ART SLOT -->
+<!-- PIXEL ART SLOT (llenado con Pharah) -->
 <p>
-  <a href="LINK_AQUI">
-    <img src="IMG_PIXEL_AQUI" alt="Stack pixel" height="80">
+  <a href="https://toppng.com/uploads/preview/overwatch-pharah-pixel-spray-11563500446i3gmwomjbj.png">
+    <img src="https://toppng.com/uploads/preview/overwatch-pharah-pixel-spray-11563500446i3gmwomjbj.png" alt="Overwatch Pharah Pixel" height="84">
   </a>
 </p>
 
@@ -86,13 +94,37 @@
 <!-- ============================ -->
 <!--        PIXEL SHOWROOM        -->
 <!-- ============================ -->
-<h3 align="center">🎨 Pixel Showroom (links a proyectos/portfolio)</h3>
+<h3 align="center">🎨 Pixel Showroom (fan-sprites & links)</h3>
+
+<!-- 8 sprites en grid (2 filas × 4 columnas) -->
+<p align="center">
+  <a href="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620">
+    <img src="https://static.wikia.nocookie.net/overwatch/images/7/70/McCree_Spray_-_Pixel.png/revision/latest/scale-to-width-down/250?cb=20160610010620" alt="McCree Pixel" width="90">
+  </a>
+  <a href="https://p7.hiclipart.com/preview/684/247/611/overwatch-mercy-pixel-art-blizzcon-pixel.jpg">
+    <img src="https://p7.hiclipart.com/preview/684/247/611/overwatch-mercy-pixel-art-blizzcon-pixel.jpg" alt="Mercy Pixel" width="90">
+  </a>
+  <a href="https://www.pikpng.com/pngl/m/40-402381_overwatch-bastion-pixel-art-png-download-overwatch-bastion.png">
+    <img src="https://www.pikpng.com/pngl/m/40-402381_overwatch-bastion-pixel-art-png-download-overwatch-bastion.png" alt="Bastion Pixel" width="90">
+  </a>
+  <a href="https://p7.hiclipart.com/preview/512/535/747/overwatch-pixel-art-mei-mei-overwatch.jpg">
+    <img src="https://p7.hiclipart.com/preview/512/535/747/overwatch-pixel-art-mei-mei-overwatch.jpg" alt="Mei Pixel" width="90">
+  </a>
+</p>
 
 <p align="center">
-  <!-- PIXEL ART SLOT x3 -->
-  <a href="LINK_AQUI"><img src="IMG_PIXEL_AQUI" alt="pixel card 1" width="90"></a>
-  <a href="LINK_AQUI"><img src="IMG_PIXEL_AQUI" alt="pixel card 2" width="90"></a>
-  <a href="LINK_AQUI"><img src="IMG_PIXEL_AQUI" alt="pixel card 3" width="90"></a>
+  <a href="https://www.vhv.rs/dpng/d/425-4251946_sombra-pixel-art-spray-overwatch-pixel-spray-sombra.png">
+    <img src="https://www.vhv.rs/dpng/d/425-4251946_sombra-pixel-art-spray-overwatch-pixel-spray-sombra.png" alt="Sombra Pixel" width="90">
+  </a>
+  <a href="https://www.vhv.rs/dpng/d/416-4162488_overwatch-junkrat-png-junkrat-pixel-art-transparent-png.png">
+    <img src="https://www.vhv.rs/dpng/d/416-4162488_overwatch-junkrat-png-junkrat-pixel-art-transparent-png.png" alt="Junkrat Pixel" width="90">
+  </a>
+  <a href="https://toppng.com/uploads/preview/overwatch-pharah-pixel-spray-11563500446i3gmwomjbj.png">
+    <img src="https://toppng.com/uploads/preview/overwatch-pharah-pixel-spray-11563500446i3gmwomjbj.png" alt="Pharah Pixel" width="90">
+  </a>
+  <a href="https://w7.pngwing.com/pngs/232/391/png-transparent-overwatch-blizzcon-pixel-art-heroes-of-the-storm-soldier-76-video-game-bead-fictional-character-thumbnail.png">
+    <img src="https://w7.pngwing.com/pngs/232/391/png-transparent-overwatch-blizzcon-pixel-art-heroes-of-the-storm-soldier-76-video-game-bead-fictional-character-thumbnail.png" alt="Soldier: 76 Pixel" width="90">
+  </a>
 </p>
 
 <!-- Divider estilo pixel -->
@@ -122,12 +154,13 @@
 <h3 align="center">🔗 Connect with me</h3>
 
 <p align="center">
-  <!-- Ajusta tus redes; deja sólo las que uses -->
   <a href="https://fb.com/eduardo.garcia.gomez" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
-  <!-- PIXEL ART SLOT -->
-  <a href="LINK_AQUI"><img src="IMG_PIXEL_AQUI" alt="social pixel" height="40"></a>
+  <!-- Pixel en redes (Soldier: 76) -->
+  <a href="https://w7.pngwing.com/pngs/232/391/png-transparent-overwatch-blizzcon-pixel-art-heroes-of-the-storm-soldier-76-video-game-bead-fictional-character-thumbnail.png">
+    <img src="https://w7.pngwing.com/pngs/232/391/png-transparent-overwatch-blizzcon-pixel-art-heroes-of-the-storm-soldier-76-video-game-bead-fictional-character-thumbnail.png" alt="Soldier: 76 Pixel" height="40">
+  </a>
 </p>
 
 <!-- Footer pixel -->

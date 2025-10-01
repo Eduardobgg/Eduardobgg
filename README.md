@@ -1,4 +1,4 @@
-<img width="860" height="781" alt="image" src="https://github.com/user-attachments/assets/ed7d0870-9a79-41e6-9442-f16f7359edf5" /><!-- ============================ -->
+<!-- ============================ -->
 <!--        PIXEL-ART README      -->
 <!-- ============================ -->
 

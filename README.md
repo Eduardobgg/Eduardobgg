@@ -2,30 +2,35 @@
 <!--        PIXEL-ART README      -->
 <!-- ============================ -->
 
-<!-- 🎛️ PRESENTACIÓN — Compact Pixel Card -->
+<!-- 🎛️ PRESENTACIÓN — CARTEL MARQUESINA RETRO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header
-&text=Hi%20👋,%20I'm%20Eduardo%20Biali%20Garcia%20Gomez
-&fontColor=F8D568&fontSize=30&fontAlign=50&fontAlignY=40
-&desc=CS%20student%20@%20Faculty%20of%20Sciences%20%E2%80%A2%20Mexico
-&descAlign=50&descAlignY=75
-&animation=fadeIn
-&stroke=F8D568&strokeWidth=1"
-    alt="Eduardo Biali — CS student @ Faculty of Sciences, Mexico"
-  />
+    src="https://capsule-render.vercel.app/api
+      ?type=rect
+      &section=header
+      &color=0D1117
+      &height=190
+      &width=1000
+      &text=Hi%20👋,%20I'm%20Eduardo%20Biali%20Garcia%20Gomez
+      &fontColor=F8D568
+      &fontSize=34
+      &fontAlign=50
+      &fontAlignY=40
+      &desc=CS%20student%20@%20Faculty%20of%20Sciences%20%E2%80%A2%20Mexico
+      &descAlign=50
+      &descAlignY=78
+      &stroke=F8D568
+      &strokeWidth=2
+      &textBg=true
+      &animation=twinkling"
+    alt="Pixel marquee: Eduardo Biali Garcia Gomez — CS student @ Faculty of Sciences • Mexico" />
 </p>
 
-<!-- Separador fino para respiración visual -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F8D568&height=6&section=footer" alt="" />
-</p>
-
-<br/>
+<!-- contador (conservado) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eduardobgg&label=Profile%20views&color=7f5af0&style=flat-square" alt="eduardobgg" />
 </p>
-<br/>
+
 
 
 

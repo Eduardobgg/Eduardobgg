@@ -145,7 +145,7 @@
 <h3 align="center">🔗 Connect with me</h3>
 
 <p align="center">
-  <a href="https://fb.com/eduardo.garcia.gomez" target="_blank">
+  <a href="https://www.facebook.com/eduardo.garciagomez.9843?locale=es_LA" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
   <!-- Pixel en redes (conservado) -->

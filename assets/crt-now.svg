@@ -15,3 +15,20 @@
     <text x="30" y="165" fill="#7F5AF0" font-size="16">English: Intermediate • Open to collab</text>
   </g>
 </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210">
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.25"/>
+      <rect y="2" width="4" height="2" fill="transparent"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="#0D1117" rx="0"/>
+  <rect x="10" y="10" width="880" height="190" fill="#0A0F14" stroke="#F8D568" stroke-width="4" shape-rendering="crispEdges"/>
+  <rect x="10" y="10" width="880" height="190" fill="url(#scan)"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="30" y="60"  fill="#F8D568" font-size="18">NOW ▶ Teaching: Java from scratch</text>
+    <text x="30" y="95"  fill="#C9D1D9" font-size="16">Building: Django apps • practicing HTML/CSS/JS</text>
+    <text x="30" y="130" fill="#C9D1D9" font-size="16">OS: Linux & Windows • Microsoft ecosystem</text>
+    <text x="30" y="165" fill="#7F5AF0" font-size="16">English: Intermediate • Open to collab</text>
+  </g>
+</svg>

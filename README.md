@@ -139,14 +139,6 @@
 </p>
 
 
-
-<!-- ============================ -->
-<!--   SEPARADOR PIXEL (checker)  -->
-<!-- ============================ -->
-<p align="center">
-  <img src="./assets/pixel-divider.svg" alt="pixel divider" width="900">
-</p>
-
 <!-- ============================ -->
 <!--         SOCIAL / LINKS       -->
 <!-- ============================ -->

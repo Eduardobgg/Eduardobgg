@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70">
+  <rect x="6" y="14" width="888" height="40" fill="#0D1117" stroke="#F8D568" stroke-width="6" shape-rendering="crispEdges"/>
+  <text x="50%" y="42" text-anchor="middle" dominant-baseline="middle"
+        fill="#F8D568" font-size="22" font-family="Consolas, 'Courier New', monospace">PORTFOLIO</text>
+</svg>

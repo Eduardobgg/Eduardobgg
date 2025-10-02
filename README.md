@@ -5,14 +5,29 @@
        width="1000" style="max-width: 100%;"/>
 </p>
 
-
 <!-- contador (déjalo como ya lo tienes) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eduardobgg&label=Profile%20views&color=7f5af0&style=flat-square" alt="eduardobgg" />
 </p>
 
+<!-- ============================ -->
+<!--    BOTONERA PIXEL (anchors)  -->
+<!-- ============================ -->
+<p align="center">
+  <!-- Sube estos archivos: btn-projects.svg, btn-courses.svg, btn-contact.svg, btn-cv.svg -->
+  <a href="#projects"><img src="./assets/btn-projects.svg" alt="Projects" height="56"></a>
+  <a href="#courses"><img  src="./assets/btn-courses.svg"  alt="Courses"  height="56"></a>
+  <a href="mailto:eduardobgg20@ciencias.unam.mx"><img src="./assets/btn-contact.svg" alt="Contact" height="56"></a>
+  <a href="LINK_A_TU_CV.pdf"><img src="./assets/btn-cv.svg" alt="CV" height="56"></a>
+</p>
 
-
+<!-- ============================ -->
+<!--   SEPARADOR PIXEL (checker)  -->
+<!-- ============================ -->
+<p align="center">
+  <!-- Sube pixel-divider.svg -->
+  <img src="./assets/pixel-divider.svg" alt="pixel divider" width="900">
+</p>
 
 <!-- ============================ -->
 <!--           ABOUT ME           -->
@@ -74,6 +89,29 @@
 </tr>
 </table>
 
+<!-- ============================ -->
+<!--        BARRAS DE SKILLS      -->
+<!-- ============================ -->
+<p align="center">
+  <!-- Sube skill-bars.svg -->
+  <img src="./assets/skill-bars.svg" alt="Skills energy bars" width="900">
+</p>
+
+<!-- ============================ -->
+<!--            NOW / CRT         -->
+<!-- ============================ -->
+<p align="center">
+  <!-- Sube crt-now.svg -->
+  <img src="./assets/crt-now.svg" alt="Now / Status" width="900">
+</p>
+
+<!-- ============================ -->
+<!--   SEPARADOR PIXEL (checker)  -->
+<!-- ============================ -->
+<p align="center">
+  <img src="./assets/pixel-divider.svg" alt="pixel divider" width="900">
+</p>
+
 <!-- ===================================================== -->
 <!--        🎮 PIXEL GITHUB STATS (con temas y cards)      -->
 <!-- ===================================================== -->
@@ -85,7 +123,6 @@
 
 <!-- Fila 1: Stats principal + Top Langs (donut vertical) -->
 <p align="center">
-  <!-- Esquinas cuadradas (border_radius=0) y paleta retro -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=eduardobgg&show_icons=true&hide_border=false&border_radius=0&title_color=F8D568&text_color=C9D1D9&icon_color=7F5AF0&bg_color=0D1117&border_color=30363D"
     alt="Eduardo GitHub Stats" height="165" />
@@ -101,7 +138,7 @@
     alt="Eduardo Contribution Streak" height="185" />
 </p>
 
-<!-- Fila 3 (opcional pero vistosa): Summary Cards con tema '2077' (neón retro) -->
+<!-- Fila 3: Summary Cards (tema 2077) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardobgg&theme=2077" height="200" alt="Profile Details 2077"/>
 </p>
@@ -111,7 +148,51 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardobgg&theme=2077" height="120" alt="Repos per Language 2077"/>
 </p>
 
+<!-- ============================ -->
+<!--   SEPARADOR PIXEL (checker)  -->
+<!-- ============================ -->
+<p align="center">
+  <img src="./assets/pixel-divider.svg" alt="pixel divider" width="900">
+</p>
 
+<!-- ============================ -->
+<!--       PORTFOLIO / PROJECTS   -->
+<!-- ============================ -->
+<div id="projects"></div>
+<p align="center">
+  <!-- Duplica section-title.svg como section-title-portfolio.svg con el texto PORTFOLIO -->
+  <img src="./assets/section-title-portfolio.svg" alt="Portfolio" width="900">
+</p>
+
+<!-- Mini cards (duplica card-template.svg por proyecto y cámbiale el título) -->
+<p align="center">
+  <a href="LINK_A_TU_PROYECTO_1"><img src="./assets/card-template.svg" alt="Project 1" width="280"></a>
+  <a href="LINK_A_TU_PROYECTO_2"><img src="./assets/card-template.svg" alt="Project 2" width="280"></a>
+  <a href="LINK_A_TU_PROYECTO_3"><img src="./assets/card-template.svg" alt="Project 3" width="280"></a>
+</p>
+
+<!-- ============================ -->
+<!--           COURSES            -->
+<!-- ============================ -->
+<div id="courses"></div>
+<p align="center">
+  <!-- Duplica section-title.svg como section-title-courses.svg con el texto COURSES -->
+  <img src="./assets/section-title-courses.svg" alt="Courses" width="900">
+</p>
+
+<p align="center">
+  <!-- Puedes reutilizar card-template.svg para cursos -->
+  <a href="LINK_A_TU_CURSO_1"><img src="./assets/card-template.svg" alt="Course 1" width="280"></a>
+  <a href="LINK_A_TU_CURSO_2"><img src="./assets/card-template.svg" alt="Course 2" width="280"></a>
+  <a href="LINK_A_TU_CURSO_3"><img src="./assets/card-template.svg" alt="Course 3" width="280"></a>
+</p>
+
+<!-- ============================ -->
+<!--   SEPARADOR PIXEL (checker)  -->
+<!-- ============================ -->
+<p align="center">
+  <img src="./assets/pixel-divider.svg" alt="pixel divider" width="900">
+</p>
 
 <!-- ============================ -->
 <!--         SOCIAL / LINKS       -->
@@ -127,5 +208,3 @@
     <img src="https://pbs.twimg.com/media/DO1064xWkAA7qaV.png" alt="Moira Pixel" height="80">
   </a>
 </p>
-
-

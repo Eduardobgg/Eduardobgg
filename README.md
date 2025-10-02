@@ -1,72 +1,10 @@
-<!-- 🎛️ PRESENTACIÓN — CARTEL MARQUESINA RETRO (INLINE SVG, SIN ARCHIVOS EXTRA) -->
-<div align="center">
+<!-- 🎛️ PRESENTACIÓN — CARTEL MARQUESINA RETRO (self-hosted) -->
+<p align="center">
+  <img src="./assets/pixel-marquee.svg"
+       alt="Pixel marquee — Eduardo Biali Garcia Gomez"
+       width="1000" style="max-width: 100%;"/>
+</p>
 
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 1000 220"
-     width="100%" height="220"
-     role="img"
-     aria-label="Hi, I'm Eduardo Biali Garcia Gomez — CS student @ Faculty of Sciences • Mexico"
-     preserveAspectRatio="xMidYMid meet">
-
-  <defs>
-    <!-- Barrido suave tipo scanline -->
-    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0"   stop-color="#F8D568" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#F8D568" stop-opacity="0.10"/>
-      <stop offset="1"   stop-color="#F8D568" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Fondo -->
-  <rect width="100%" height="100%" fill="#0D1117"/>
-
-  <!-- Borde pixel (esquinas cuadradas) -->
-  <rect x="8" y="8" width="984" height="204"
-        fill="none" stroke="#F8D568" stroke-width="8"
-        shape-rendering="crispEdges"/>
-
-  <!-- Luces “marquesina” arriba -->
-  <g fill="#7F5AF0" shape-rendering="crispEdges" opacity="0.9">
-    <rect x="-40"  y="20" width="16" height="16">
-      <animate attributeName="x" from="-40" to="1040" dur="6s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="-120" y="20" width="16" height="16">
-      <animate attributeName="x" from="-120" to="960" dur="6s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="-200" y="20" width="16" height="16">
-      <animate attributeName="x" from="-200" to="880" dur="6s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-
-  <!-- Barrido central -->
-  <rect x="-300" y="0" width="260" height="220" fill="url(#scan)">
-    <animate attributeName="x" from="-300" to="1040" dur="8s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Título -->
-  <text x="50%" y="95" text-anchor="middle"
-        fill="#F8D568" font-size="28"
-        font-family="Consolas, 'Courier New', monospace">
-    Hi 👋, I'm Eduardo Biali Garcia Gomez
-  </text>
-
-  <!-- Subtítulo -->
-  <text x="50%" y="140" text-anchor="middle"
-        fill="#C9D1D9" font-size="18"
-        font-family="Consolas, 'Courier New', monospace">
-    CS student @ Faculty of Sciences • Mexico
-  </text>
-
-  <!-- Estrellas píxel parpadeando -->
-  <rect x="40" y="40" width="6" height="6" fill="#F8D568" shape-rendering="crispEdges">
-    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="940" y="170" width="6" height="6" fill="#7F5AF0" shape-rendering="crispEdges">
-    <animate attributeName="opacity" values="0;1;0" dur="2.7s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-
-</div>
 
 <!-- contador (déjalo como ya lo tienes) -->
 <p align="center">

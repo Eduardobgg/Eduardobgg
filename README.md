@@ -10,16 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=eduardobgg&label=Profile%20views&color=7f5af0&style=flat-square" alt="eduardobgg" />
 </p>
 
-<!-- ============================ -->
-<!--    BOTONERA PIXEL (anchors)  -->
-<!-- ============================ -->
-<p align="center">
-  <!-- Sube estos archivos: btn-projects.svg, btn-courses.svg, btn-contact.svg, btn-cv.svg -->
-  <a href="#projects"><img src="./assets/btn-projects.svg" alt="Projects" height="56"></a>
-  <a href="#courses"><img  src="./assets/btn-courses.svg"  alt="Courses"  height="56"></a>
-  <a href="mailto:eduardobgg20@ciencias.unam.mx"><img src="./assets/btn-contact.svg" alt="Contact" height="56"></a>
-  <a href="LINK_A_TU_CV.pdf"><img src="./assets/btn-cv.svg" alt="CV" height="56"></a>
-</p>
 
 <!-- ============================ -->
 <!--   SEPARADOR PIXEL (checker)  -->
@@ -97,13 +87,6 @@
   <img src="./assets/skill-bars.svg" alt="Skills energy bars" width="900">
 </p>
 
-<!-- ============================ -->
-<!--            NOW / CRT         -->
-<!-- ============================ -->
-<p align="center">
-  <!-- Sube crt-now.svg -->
-  <img src="./assets/crt-now.svg" alt="Now / Status" width="900">
-</p>
 
 <!-- ============================ -->
 <!--   SEPARADOR PIXEL (checker)  -->
@@ -155,37 +138,7 @@
   <img src="./assets/pixel-divider.svg" alt="pixel divider" width="900">
 </p>
 
-<!-- ============================ -->
-<!--       PORTFOLIO / PROJECTS   -->
-<!-- ============================ -->
-<div id="projects"></div>
-<p align="center">
-  <!-- Duplica section-title.svg como section-title-portfolio.svg con el texto PORTFOLIO -->
-  <img src="./assets/section-title-portfolio.svg" alt="Portfolio" width="900">
-</p>
 
-<!-- Mini cards (duplica card-template.svg por proyecto y cámbiale el título) -->
-<p align="center">
-  <a href="LINK_A_TU_PROYECTO_1"><img src="./assets/card-template.svg" alt="Project 1" width="280"></a>
-  <a href="LINK_A_TU_PROYECTO_2"><img src="./assets/card-template.svg" alt="Project 2" width="280"></a>
-  <a href="LINK_A_TU_PROYECTO_3"><img src="./assets/card-template.svg" alt="Project 3" width="280"></a>
-</p>
-
-<!-- ============================ -->
-<!--           COURSES            -->
-<!-- ============================ -->
-<div id="courses"></div>
-<p align="center">
-  <!-- Duplica section-title.svg como section-title-courses.svg con el texto COURSES -->
-  <img src="./assets/section-title-courses.svg" alt="Courses" width="900">
-</p>
-
-<p align="center">
-  <!-- Puedes reutilizar card-template.svg para cursos -->
-  <a href="LINK_A_TU_CURSO_1"><img src="./assets/card-template.svg" alt="Course 1" width="280"></a>
-  <a href="LINK_A_TU_CURSO_2"><img src="./assets/card-template.svg" alt="Course 2" width="280"></a>
-  <a href="LINK_A_TU_CURSO_3"><img src="./assets/card-template.svg" alt="Course 3" width="280"></a>
-</p>
 
 <!-- ============================ -->
 <!--   SEPARADOR PIXEL (checker)  -->
